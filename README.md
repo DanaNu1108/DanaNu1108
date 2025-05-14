@@ -1,7 +1,9 @@
 # Dana Nuñez
 
 **Data Analyst** | Engineering & Operations Background  
-Vancouver, BC · Open to remote work · [LinkedIn](https://www.linkedin.com/in/dananunez98) · [GitHub](https://github.com/DanaNu1108) · danaliz98@gmail.com
+Vancouver, BC · Open to work · 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dananunez98)
+[![Email](https://img.shields.io/badge/Email-danaliz98@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danaliz98@gmail.com)
 
 ---
 
